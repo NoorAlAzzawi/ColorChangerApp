@@ -48,4 +48,4 @@ At first I didn’t know how to connect the button to the Swift file, but I figu
    - Search by objects.
   
 ### My App Idea
-My app idea is a **Healthy Habits Tracker** Tracker that helps people stick to routines. Users can add custom habits like drinking water or walking, receive reminders, and see streaks to stay motivated. Simple charts would show weekly or monthly progress, and users could share progress with friends for extra accountability.
+My app idea is a **Healthy Habits Tracker** that helps people stick to routines. Users can add custom habits like drinking water or walking, receive reminders, and see streaks to stay motivated. Simple charts would show weekly or monthly progress, and users could share progress with friends for extra accountability.
