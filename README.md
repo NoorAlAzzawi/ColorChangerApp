@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 ## Notes
 At first I didn’t know how to connect the button to the Swift file, but I figured it out with Control-drag. I also saw some layout warnings, but they didn’t affect the app’s functionality.
 
-## App Brainstorming 
+## App Brainstorming (Step 4)
 
 ### Favorite Apps + Features
 1. **Instagram**
